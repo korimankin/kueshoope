@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aemuefohho.produktor.io/sitemap.xml
